@@ -9,7 +9,7 @@ go:
   - tip
 install:
   - go install ./...
-  - go get github.com/BurntSushi/toml-test
+  - go get ireul.com/toml-test
 script:
   - export PATH="$PATH:$HOME/gopath/bin"
   - make test

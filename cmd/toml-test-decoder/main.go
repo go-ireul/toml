@@ -11,7 +11,7 @@ import (
 	"path"
 	"time"
 
-	"github.com/BurntSushi/toml"
+	"ireul.com/toml"
 )
 
 func init() {
